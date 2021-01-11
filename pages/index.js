@@ -17,6 +17,10 @@ export default function Home() {
         Pracujemy nad tym, by już niedługo Tree of Life było dostępne z każdego miejsca na Ziemi.
         </p>
 
+        <p style={{fontSize: 8}}>
+        {"::CLOUDFLARE_ERROR_1000S_BOX::"}
+        </p>
+
       </main>
     </div>
   )
